@@ -1,1 +1,1 @@
-# Student Application Demo
+# Student Application Management
